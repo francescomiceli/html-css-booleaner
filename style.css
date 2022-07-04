@@ -4,8 +4,8 @@ body{ margin: 0;}
 
 /* ! Header */
 
-.header{background: hwb(207 28% 5%); background-image: url(img/pattern.png); height: 100px; background-size: 45%;}
-.logo{width: 25%; margin:}
+.header{background: hwb(207 28% 5%); background-image: url(img/pattern.png); height: 100px; background-size: 28%;}
+.logo{width: 13%; margin:}
 
 /* ! Main */
 
