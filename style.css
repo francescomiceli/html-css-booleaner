@@ -5,23 +5,33 @@ body{ margin: 0;}
 /* ! Header */
 
 .header{background: hwb(207 28% 5%); background-image: url(img/pattern.png); height: 100px; background-size: 28%;}
-.logo{width: 13%; margin:}
+.header .logo{width: 13%; padding-top: 40px;}
 
-/* ! Main */
 
+/* ! Margini e padding */
 main {margin: 10px 10px;}
 .mt-0{margin-top: 0;}
 .mt-1{margin-top: 20px;}
 .mb-0{margin-bottom: 0;}
+.img{margin-top: 30px;}
 ul{padding-left: 10px;}
 h1{margin: 1px;}
-.testo-azzurro{color: rgb(79, 155, 218);}
-.img{margin-top: 30px;}
+.w-20{width: 20%;}
+
+/* Colori*/
 .bg-azure{background-color: rgb(180, 214, 235); display: inline;}
 .bg-yellow{background-color: yellow;}
-
-table{border-collapse: collapse;}
-th{color: #fff; background-color: rgb(54, 136, 218);text-align: left;}
+.testo-azzurro{color: rgb(79, 155, 218);}
 .bg-blu{background-color: rgb(129, 223, 239);}
-.w-20{width: 20%;}
+h4{color: grey;}
+th{color: #fff; background-color: rgb(54, 136, 218);text-align: left;}
+
+/* Tabella */
+table{border-collapse: collapse;}
+
+/* Footer */
+.container{position: relative;color: white;}
+.top-left {position: absolute;top: 8px;left: 16px;font-weight: bold;}
+
+
 
