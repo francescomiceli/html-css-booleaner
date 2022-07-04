@@ -10,9 +10,12 @@ body{ margin: 0;}
 /* ! Main */
 
 main {margin: 10px 10px;}
-h1, p{margin: 1px;}
-h4{background-color: rgb(180, 214, 235); margin: 0; display: inline;}
-#testo-azzurro{color: rgb(79, 155, 218);}
+.mt-0{margin-top: 0;}
+.mb-0{margin-bottom: 0;}
+
+h1{margin: 1px;}
+.testo-azzurro{color: rgb(79, 155, 218);}
 .img{margin-top: 30px;}
-#sfondo-az{background-color: rgb(180, 214, 235); display: inline;}
+.sfondo-az{background-color: rgb(180, 214, 235); display: inline;}
+.bg-yellow{background-color: yellow;}
 
