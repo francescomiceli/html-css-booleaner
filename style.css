@@ -7,3 +7,10 @@ body{ margin: 0;}
 .header{background: hwb(207 28% 5%); background-image: url(img/pattern.png); height: 100px; background-size: 45%;}
 .logo{width: 25%; margin:}
 
+/* ! Main */
+
+main {margin: 10px 10px;}
+h1, p{margin: 5px;}
+h4{background-color: rgb(180, 214, 235); margin: 0; display: inline;}
+#testo-azzurro{color: rgb(79, 155, 218);}
+
